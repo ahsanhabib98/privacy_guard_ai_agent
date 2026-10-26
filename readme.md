@@ -3,7 +3,7 @@
 ## 1. Go to the project folder
 
 ```bash
-cd continuous_learning_AI_agent
+cd privacy_guard_ai_agent
 ```
 
 ## 2. Create and activate the virtual environment
